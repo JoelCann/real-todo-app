@@ -22,7 +22,7 @@ const AddTodo = () => {
       <h1>Add a new Todo</h1>
       <form onSubmit={saveTodo}>
         <input type="text" placeholder="Enter your Task" required/>
-        <button type="submit">Submit</button>
+        <button type="submit">Submittt</button>
       </form>
 
     </div>
